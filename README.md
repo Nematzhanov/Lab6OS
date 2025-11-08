@@ -159,6 +159,7 @@ Lab6OS/
 > с использованием системных вызовов `fork`, `shmget`, `semget`, `semop`, `wait` и `shmdt`.
 
 ---
+Nematzhanov Mukhammadzakhid<br/>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/nematzhonov)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nematzhanov_?igsh=NTc4MTIwNjQ2YQ==)
 [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white)](https://vk.com/nematzhanov_m)
